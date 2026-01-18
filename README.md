@@ -36,7 +36,7 @@ src/test
  │   │   └─ CRUD tests
  │   │
  │   └─ utils
- │       ├─ TestDataResolver.java
+ │       ├─ JsonUtils.java
  │       ├─ TestDataGenerator.java
  │       └─ UserIdCollector.java
  │

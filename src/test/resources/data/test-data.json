@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "email": "test@example.com"
+  },
+
+  "login": {
+    "request": {
+      "email": "lotussick@gmail.com",
+      "password": "qurQYNVwIKDY"
+    }
+  },
+
+  "automationTaskCreate": {
+    "request": {
+      "currency_code": "USD",
+      "email": "",
+      "name": "Test",
+      "password_change": "1234",
+      "password_repeat": "1234",
+      "surname": "User",
+      "username": "testuser"
+    }
+  },
+
+  "automationTaskGetOne": {
+    "request": {
+      "email": ""
+    }
+  }
+}
